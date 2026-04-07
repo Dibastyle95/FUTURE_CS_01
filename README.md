@@ -1,0 +1,2 @@
+# FUTURE_CS_01
+The objective of this task was to perform a non-intrusive security assessment of the target web application. Using industry-standard tools, the assessment aimed to identify open entry points (ports), detect the versions of services running on the server, and evaluate the overall risk to the business. The scan identified critical gaps in encryption and server maintenance that could lead to unauthorized data interception.
